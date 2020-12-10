@@ -1,0 +1,221 @@
+.jarak{
+	height: 120px;
+}
+
+.body{
+    background-color: rgba(221, 200, 177, 0.5);
+}
+
+.box1{
+    background: rgba(99, 24, 24, 0.473);
+    width: 80%;
+    height: 90px;
+    margin-left: 3px;
+    margin-top: 30px;
+}
+
+.judulform {
+    text-align:center; 
+    color:rgba(255, 247, 232, 0.801); 
+    font-family: 'Franklin Gothic Medium'; 
+    font-size: 50px; 
+    border: none;  
+    background-color: rgb(143, 121, 131);
+    margin-top: -55px;
+    margin-bottom: 15px;
+    margin-left:203px;
+    margin-right:200px;
+    height: 70px;
+    padding-top: 12px
+}
+
+.daftar{
+	margin-left: 5cm;
+	margin-right: 5cm;
+    background: rgba(235, 202, 218, 0.712);
+    height: 13cm;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    letter-spacing: 2px;
+    align-items: center;
+}
+
+.input{
+	width: 10cm;
+	height: 30px;
+	border-radius: 50px;
+    outline: none;
+    border: none;
+    padding: 5px 30px;
+    
+}
+
+.submit{
+    height: 46px;
+    width: 175px;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    padding: 8px 25px;
+    margin-top: 40px;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 3px;
+    color: rgba(105, 42, 0, 0.788);
+    background-color:rgba(218, 181, 151, 0.692);
+}
+
+.bawah{
+    text-decoration: none;
+    color: rgba(105, 42, 0, 0.788);
+    text-shadow: 2px 2px 5px rgba(158, 129, 143, 0.747);
+    font-family: Microsoft Tai Le;
+}
+
+.kata1{
+    letter-spacing: 5px;
+    font-size: 21px;
+    text-align: center;
+}
+
+.kata2{
+    letter-spacing: 2px;
+}
+
+.footer{
+    width: 100%;
+    height: 210px;
+    background: rgb(75, 59, 66);
+    margin-top: 200px;
+    font-family: Microsoft Tai Le;
+    color: rgb(201, 201, 201);
+    letter-spacing: 2px;
+}
+
+.stylefooter{
+    margin-left: 2cm;
+}
+
+.BGpopup{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(90, 89, 89, 0.603);
+    position: absolute;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.PopUp{
+    width: 500px;
+    height: 219px;
+    background-color: rgb(212, 196, 203);
+    border-radius: 20px;
+    text-align: center;
+    position: center;  
+    box-shadow: 0 5px 10px 0 rgba(255, 248, 248, 0.486) ;
+}
+
+.awal{
+    font-family: Microsoft Tai Le;
+    font-size: 33px;
+    letter-spacing: 3px;
+    margin-bottom: 9px;
+    margin-top: 30px;
+    color: rgba(32, 6, 24, 0.836);
+    text-shadow: 2px 2px 5px rgba(158, 129, 143, 0.747); ;
+}
+
+.awal1{
+    font-size: 18px;
+    font-family: Microsoft Tai Le;
+    letter-spacing: 2px;
+}
+
+.ok {
+    height: 33px;
+    background-color: rgb(189, 147, 120);
+    border: none;
+    color: rgba(105, 42, 0, 0.788);
+    padding: 10px 24px;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 50px;
+    font-family: Microsoft Tai Le;
+    cursor: pointer;
+}
+
+.BGberhasil{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(70, 67, 67, 0.795);
+    position: absolute;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.Berhasil{
+    width: 400px;
+    height: 210px;
+    background-color: rgba(177, 141, 107, 0.973);
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    font-size: 18px;
+    font-family: Microsoft Tai Le;
+    color: rgba(226, 226, 226, 0.925);
+}
+
+.done{
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-left: 8px;
+}
+
+.BGgagal{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(70, 67, 67, 0.795);
+    position: absolute;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.Gagal{
+    width: 400px;
+    height: 255px;
+    background-color: rgba(177, 141, 107, 0.973);
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    font-size: 18px;
+    font-family: Microsoft Tai Le;
+    color: rgba(226, 226, 226, 0.925);
+}
+
+.ulang{
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.close{
+    position: absolute;
+    top: 0;
+    right: 5px;
+    font-size: 30px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.close1{
+    position: absolute;
+    top: 0;
+    right: 5px;
+    font-size: 30px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
